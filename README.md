@@ -1,18 +1,19 @@
-# Clash of Clans Bot
 
-Ce projet est un bot pour Clash of Clans écrit en Python. Il automatise certaines tâches en utilisant des scripts personnalisés.
+# SmartAutoClicker
 
-## Fichiers
-- `coc-bot.py` : Script principal du bot.
-- `1.txt`, `2heros.txt`, `3hero.txt`, `4hero.txt` : Fichiers de données utilisés par le bot.
+SmartAutoClicker is a Python script that automates mouse clicks on your computer. It is designed to help with repetitive tasks that require frequent clicking.
 
-## Utilisation
-1. Installez Python 3.x sur votre machine.
-2. Placez tous les fichiers dans le même dossier.
-3. Exécutez le script principal :
+## Files
+- `AutoClicker.py`: Main script of the autoclicker.
+- Configuration or data files as needed.
+
+## Usage
+1. Install Python 3.x on your machine.
+2. Place all files in the same folder.
+3. Run the main script:
    ```bash
-   python coc-bot.py
+   python AutoClicker.py
    ```
 
-## Avertissement
-Ce projet est à but éducatif. L'utilisation de bots peut violer les conditions d'utilisation du jeu.
+## Disclaimer
+This project is for educational purposes only. The use of autoclickers may be prohibited in certain software or games.
