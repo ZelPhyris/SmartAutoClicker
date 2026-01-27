@@ -1,0 +1,2 @@
+# SmartAutoClicker
+Auto clicker Python
